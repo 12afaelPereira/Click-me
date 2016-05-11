@@ -3,6 +3,13 @@ body {
   background: #e9f1f4;
 }
 
+.img{
+  position: absolute;
+  top: 0;
+  right: 0;
+  border: 0;
+}
+
 .click-me {
   font-family: 'Montserrat', sans-serif;
   font-size: 5em;
