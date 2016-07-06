@@ -1,5 +1,5 @@
 # Click-me
-Change the background color clicking on the text
+Change the background color clicking on the text.
 
 - [Lauch Project] (https://12afaelpereira.github.io/Click-me/)
 
